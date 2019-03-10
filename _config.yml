@@ -26,6 +26,7 @@ navbar-links:
   Projects: 
     - Kappa Shader: "https://rre36.github.io/GLSL-ShaderRepo/"
     - Nostalgia Shader: "https://rre36.github.io/GLSL-LegacyShader"
+    - RRe36's Shader: "https://rre36.github.io/rre36-shader-legacy"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
