@@ -4,7 +4,23 @@ title: RRe36's Projects
 subtitle: Home of various, mostly graphics related projects
 use-site-title: true
 ---
+<div class="posts-list">
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <h2 class="post-title">Kappa Shader</h2>
+    </a>
+    <p class="post-meta">Performance? What is that? Kappa</p>
+  </article>
 
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <h2 class="post-title">Nostalgia Shader</h2>
+    </a>
+    <p class="post-meta">Accidentally super duper.</p>
+  </article>
+      
+</div>
+<!--
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -70,3 +86,4 @@ use-site-title: true
   {% endif %}
 </ul>
 {% endif %}
+//-->
