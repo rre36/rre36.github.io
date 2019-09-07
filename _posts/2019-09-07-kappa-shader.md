@@ -38,6 +38,8 @@ Idk the name just came up when discussing how I should call it and I stuck to it
 * temporal anti aliasing
 * some more I forgot about right now
 
+<br>
+
 #### Where can I download it?
 
 [Kappa Shader Website](https://rre36.github.io/glsl_kappa/)

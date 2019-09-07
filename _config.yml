@@ -31,11 +31,6 @@ navbar-links:
     - RRe36's Shader: "https://rre36.github.io/glsl_rshader"
     - Various Projects: "http://rre36.github.io/glProjectsWeb"
     - RRe36's Shader Legacy: "https://rre36.github.io/rre36-shader-legacy"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-    - Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -52,12 +47,12 @@ navbar-links:
 navbar-col: "#004401"
 navbar-text-col: "#dddddd"
 navbar-children-col: "#036804"
-page-col: "#1d331d"
-link-col: "#79d33d"
-hover-col: "#25a000"
+page-col: "#383838"
+link-col: "#219900"
+hover-col: "#1d8900"
 footer-col: "#004401"
 footer-text-col: "#dddddd"
-footer-link-col: "#404040"
+footer-link-col: "#bababa"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour

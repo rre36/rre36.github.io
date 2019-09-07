@@ -2,7 +2,9 @@
 layout: post
 title: Nostalgia Shader
 comments: false
-tags: [release, dev]
+    - "/img/nostalgia0.jpg"
+    - "/img/nostalgia1.jpg"
+    - "/img/nostalgia2.jpg"
 ---
 
 #### What is the Nostalgia Shader?
@@ -26,12 +28,12 @@ It is a shaderpack meant to replicate the look and feel of "first-gen" shaderpac
 
 #### Where can I download it?
 
-[Kappa Shader Website](https://rre36.github.io/glsl_kappa/)
+[Nostalgia Shader Website](https://rre36.github.io/glsl_nostalgia/)
 
-[Kappa Shader on Curseforge](https://www.curseforge.com/minecraft/customization/kappa-shader-by-rre36)
+[Nostalgia Shader on Curseforge](https://www.curseforge.com/minecraft/customization/nostalgia-shader)
 
 #### Any Requirements?
 
-* Optifine for 1.12 or newer (minimum required Version if F4 on 1.12)
+* Optifine for 1.12 or newer
 * Graphics Card or Integrated Graphics with OpenGL 4.0 support
 * Windows/Linux
