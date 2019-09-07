@@ -2,6 +2,7 @@
 layout: post
 title: Nostalgia Shader
 comments: false
+bigimg:
     - "/img/nostalgia0.jpg"
     - "/img/nostalgia1.jpg"
     - "/img/nostalgia2.jpg"
