@@ -8,10 +8,6 @@ bigimg:
     - "/img/kappa2.jpg"
 ---
 
-![Total Github Downloads](https://img.shields.io/github/downloads/rre36/glsl_kappa/total?color=%234b1&style=for-the-badge)
-![Latest Release](https://img.shields.io/github/v/release/rre36/glsl_kappa?include_prereleases&style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/rre36/glsl_kappa?color=%234b1&style=for-the-badge)
-
 #### What is the Kappa Shader?
 
 It's a shaderpack meant to achieve a realistic, but also "authentic" look instead of purely real-life-accurate visuals.
@@ -42,7 +38,7 @@ Idk the name just came up when discussing how I should call it and I stuck to it
 
 #### Where can I download it?
 
-[Kappa Shader Website](https://rre36.github.io/glsl_kappa/)
+[Kappa Shader Website](https://rre36.github.io/kappa_shader_web/)
 
 [Kappa Shader on Curseforge](https://www.curseforge.com/minecraft/customization/kappa-shader-by-rre36)
 
