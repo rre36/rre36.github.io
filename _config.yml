@@ -25,6 +25,7 @@ title: RRe36's Projects on Github
 navbar-links:
   Curseforge: "https://www.curseforge.com/members/rre36/projects"
   Patreon: "https://www.patreon.com/rre36"
+  License: "license"
   Projects:
     - Kappa Shader: "https://rre36.github.io/kappa_shader_web/"
     - Nostalgia Shader: "https://rre36.github.io/glsl_nostalgia"
