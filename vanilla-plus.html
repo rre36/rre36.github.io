@@ -1,37 +1,31 @@
 ---
 layout: page
-title: RRe36's Nostalgia Shader
-title-img: "/img/nostalgia/logo.png"
-subtitle: Accidentally super duper.
+title: RRe36's Vanilla Plus
+title-img: "/img/vplus/logo.png"
+subtitle: Vanilla, but better.
 use-site-title: false
 bigimg: 
-  - "/img/nostalgia/bg_a.jpg"
-  - "/img/nostalgia/bg_b.jpg"
-  - "/img/nostalgia/bg_c.jpg"
-  - "/img/nostalgia/bg_d.jpg"
-  - "/img/nostalgia/bg_e.jpg"
+  - "/img/vplus/background.jpg"
+  - "/img/vplus/background1.jpg"
+  - "/img/vplus/background2.jpg"
 ---
-<img alt="Total Downloads" src="https://img.shields.io/badge/Downloads-65k-%2346cc21?style=for-the-badge">
-<img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/rre36/nostalgia_shader_web?include_prereleases&style=for-the-badge">
+<img alt="Total Downloads" src="https://img.shields.io/badge/Downloads-237k-%2346cc21?style=for-the-badge">
 <br>
 <div>
-  <h3>What is the Nostalgia Shader?</h3>
-  This shaderpack is intended to reproduce the look and feel of the "old" shaders from back when the shadersmod was new. However it also builds ontop of that with new features and superior performance.
-  Accidentally it also has some similarities to the now canceled "Super Duper Graphics Pack" and even features a color grading profile for this since version 1.1.
-  <br>
-  For more information regarding requirements and features you can check the <a href="https://github.com/rre36/glsl_nostalgia/wiki">Wiki</a>.
+  <h3>What is the Vanilla Plus Shader?</h3>
+  This shaderpack aims to give vanilla Minecraft a graphical touchup without going over the top on effects and color. Instead it sticks to the vanilla style closely to remain faithful to its original aesthetics.
   <br>
   <table style="width:50%; border:none; background:none">
   <tr style="width:50%; border:none; background:none; max-height: 80px">
     <th style="width:50%; border:none; background:none"><a href="https://www.patreon.com/bePatron?u=19790203" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></th>
-    <th style="width:50%; border:none; background:none"><a href="https://www.curseforge.com/minecraft/customization/nostalgia-shader"><img alt="Curseforge" style="max-width:200px" src="https://raw.githubusercontent.com/rre36/rre36.github.io/master/img/curseforge.png"></a></th>
+    <th style="width:50%; border:none; background:none"><a href="https://www.curseforge.com/minecraft/customization/vanilla-plus-shader"><img alt="Curseforge" style="max-width:200px" src="https://raw.githubusercontent.com/rre36/rre36.github.io/master/img/curseforge.png"></a></th>
   </tr>
 </table>
 </div>
 <hr>
 <div class="posts-list">
   {% for category in site.categories %}
-    {% if category[0] == "Nostalgia" %}
+    {% if category[0] == "VPlus" %}
       {% for post in category[1] %}
       <article class="post-preview">
         <a href="{{ post.url | prepend: site.baseurl }}">

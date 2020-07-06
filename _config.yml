@@ -27,9 +27,9 @@ navbar-links:
   Patreon: "https://www.patreon.com/rre36"
   License: "license"
   Projects:
-    - Kappa Shader: "https://rre36.github.io/kappa_shader_web/"
-    - Nostalgia Shader: "https://rre36.github.io/nostalgia_shader_web/"
-    - Vanilla Plus: "http://rre36.github.io/vplus_web"
+    - Kappa Shader: "https://rre36.github.io/kappa-shader/"
+    - Nostalgia Shader: "https://rre36.github.io/nostalgia-shader/"
+    - Vanilla Plus: "http://rre36.github.io/vanilla-plus"
     - RRe36's Shader: "https://rre36.github.io/glsl_rshader"
     - Various Projects: "http://rre36.github.io/glProjectsWeb"
 
