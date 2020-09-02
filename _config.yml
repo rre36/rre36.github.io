@@ -164,6 +164,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginator_path: "latest/page:num"
 
 kramdown:
   input: GFM
