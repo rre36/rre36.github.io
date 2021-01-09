@@ -2,6 +2,7 @@
 layout: post
 title: Vanilla Plus Shader
 comments: false
+redirect_to: "https://rre36.com/vanilla-plus"
 ---
 
 

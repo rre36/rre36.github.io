@@ -2,6 +2,7 @@
 layout: post
 title: Kappa Shader
 comments: false
+redirect_to: "https://rre36.com/kappa-shader"
 ---
 
 
