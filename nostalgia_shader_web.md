@@ -2,6 +2,7 @@
 layout: post
 title: Nostalgia Shader
 comments: false
+redirect_to: "https://rre36.com/nostalgia-shader"
 ---
 
 
