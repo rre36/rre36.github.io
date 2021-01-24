@@ -1,9 +1,5 @@
 ---
-layout: post
-title: Kappa Shader
-comments: false
-redirect_to: "https://rre36.com/kappa-shader"
+layout: 'redirect'
+redir_to: 'https://rre36.com/kappa-shader'
+sitemap: false
 ---
-
-
-## Has been moved: [Kappa Shader Website](https://rre36.com/kappa-shader)
